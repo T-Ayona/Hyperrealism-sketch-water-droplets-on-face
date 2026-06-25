@@ -22,6 +22,7 @@ The original high-resolution photograph of the artwork is stored in this reposit
 
 <p align="center">
   <img src="w1.jpg" alt="Hyper-realistic sketch by Abdullah Irfan" width="600">
+ <img src="w3.jpg" alt="Hyper-realistic sketch by Abdullah Irfan" width="600">
 </p>
 
 ---
